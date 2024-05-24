@@ -1,0 +1,77 @@
+[
+    {
+        "nombre": "bion 3 mini",
+        "precio": 9990.0,
+        "cantidad": 14
+    },
+    {
+        "nombre": "Muno probioticos+Vitaminas 30 comprimidos",
+        "precio": 13990,
+        "cantidad": 20
+    },
+    {
+        "nombre": "tapsin plus noche parecetamol 650mg",
+        "precio": 600,
+        "cantidad": 100
+    },
+    {
+        "nombre": "Tapsin plus dia Parecetamol 650 mg solucion oral 1 sobre",
+        "precio": 600,
+        "cantidad": 50
+    },
+    {
+        "nombre": "Genion Caliente dia Parecetamol mg 1 Sobre",
+        "precio": 414,
+        "cantidad": 80
+    },
+    {
+        "nombre": "Tapsin noche compuesto antigripal Parecetamol 400mg",
+        "precio": 414,
+        "cantidad": 60
+    },
+    {
+        "nombre": "Abilar Hedera Helix '.7 gra Jarabe 100ml",
+        "precio": 4312,
+        "cantidad": 30
+    },
+    {
+        "nombre": "Fisiolimp Cloruro De Sodio 0.9 Solucion Nasal",
+        "precio": 3990,
+        "cantidad": 40
+    },
+    {
+        "nombre": "Bildren Bilastina 20 mg 30 Comprimidos",
+        "precio": 17112,
+        "cantidad": 15
+    },
+    {
+        "nombre": "Alexia Forte Fexofenadina 180 mg 30 Comprimidos Recubierto",
+        "precio": 22952,
+        "cantidad": 10
+    },
+    {
+        "nombre": "Bisolvon Jarabe Adutlos 125 ml",
+        "precio": 3096,
+        "cantidad": 25
+    },
+    {
+        "nombre": "Vaporub Mentol 1.36% Topico 50 gr",
+        "precio": 3752,
+        "cantidad": 35
+    },
+    {
+        "nombre": "Redoxon Doble Accion Sabor Naranja",
+        "precio": 3112,
+        "cantidad": 45
+    },
+    {
+        "nombre": "Muxol adulto Ambroxol 30 mg 5ml  Jarabe",
+        "precio": 3690,
+        "cantidad": 20
+    },
+    {
+        "nombre": "Paltomiel Adulto Eucalipt 4% jarabe 200 ml",
+        "precio": 3290,
+        "cantidad": 30
+    }
+]
